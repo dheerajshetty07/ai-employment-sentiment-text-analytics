@@ -60,7 +60,7 @@ All methods are interpretable and reproducible.
 
 There is no unified narrative — **platform norms shape perception**.
 
-![Common terms across platforms](Figures/WC_CommonTerms.png)
+![Image alt](https://github.com/dheerajshetty07/ai-employment-sentiment-text-analytics/blob/main/Figures/WC-CommonTerms.png)
 
 ---
 
@@ -73,7 +73,7 @@ There is no unified narrative — **platform norms shape perception**.
 **Why this matters:**  
 Where people discuss AI strongly influences how they feel about it.
 
-![Sentiment heatmap by platform](Figures/Sentiment_Heatmap.png)
+![Sentiment heatmap by platform](https://github.com/dheerajshetty07/ai-employment-sentiment-text-analytics/blob/main/Figures/CorrPlot.png)
 
 ---
 
@@ -84,6 +84,8 @@ Where people discuss AI strongly influences how they feel about it.
 
 **Interpretation:**  
 Reddit acts as an early indicator of workforce anxiety.
+
+![Fear vs optimism tone by platform](https://github.com/dheerajshetty07/ai-employment-sentiment-text-analytics/blob/main/Figures/FearVsOptTone.png)
 
 ---
 
@@ -99,6 +101,10 @@ Reddit acts as an early indicator of workforce anxiety.
 - News focuses on a **single dominant institutional narrative**
 - Reddit and Twitter show **broader, multi-dimensional discussions**
 
+![LDA topic prevalence by platform](https://github.com/dheerajshetty07/ai-employment-sentiment-text-analytics/blob/main/Figures/LDA_Topic-Weight.png)
+
+![LDA topics and top words](https://github.com/dheerajshetty07/ai-employment-sentiment-text-analytics/blob/main/Figures/LDA-Topic-TopWords.jpg)
+
 ---
 
 ### 5️⃣ Language Reflects Platform Values
@@ -108,6 +114,12 @@ Reddit acts as an early indicator of workforce anxiety.
 - **News**: companies, growth, policy, economy  
 
 Words reveal what each platform prioritizes.
+
+![Common terms on Twitter](https://github.com/dheerajshetty07/ai-employment-sentiment-text-analytics/blob/main/Figures/WC-CommonTerms_Twitter.png)
+
+![Common terms on Reddit]([Figures/WC_CommonTerms_Reddit.](https://github.com/dheerajshetty07/ai-employment-sentiment-text-analytics/blob/main/Figures/WC-CommonTerms-Reddit.png))
+
+![Common terms in News](https://github.com/dheerajshetty07/ai-employment-sentiment-text-analytics/blob/main/Figures/WC-CommonTerms-News.png)
 
 ---
 
