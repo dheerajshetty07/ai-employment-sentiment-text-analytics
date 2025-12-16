@@ -58,7 +58,7 @@ All methods are interpretable and reproducible.
 - **Reddit** surfaces fear, uncertainty, and human impact
 - **Twitter** is mostly neutral and informational
 
-There is no unified narrative — **platform norms shape perception**.
+There is no unified narrative **platform norms shape perception**.
 
 ![Image alt](https://github.com/dheerajshetty07/ai-employment-sentiment-text-analytics/blob/main/Figures/WC-CommonTerms.png)
 
@@ -140,6 +140,7 @@ Words reveal what each platform prioritizes.
 ---
 
 ##  Repository Structure
+
 ├── Datasets/              # Raw and processed datasets
 ├── Figures/               # All visualizations used in analysis
 ├── Final Paper (PDF)      # Conference-style research paper
