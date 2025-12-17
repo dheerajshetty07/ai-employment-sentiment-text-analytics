@@ -136,15 +136,6 @@ Words reveal what each platform prioritizes.
 - Use **Reddit** to acknowledge concerns and explain trade-offs
 - Use **Twitter** for concise, factual updates
 - Promote **digital literacy and reskilling pathways** across platforms
-
----
-
-##  Repository Structure
-├── Datasets/                  # Raw and processed datasets
-├── Figures/                 # All visualizations used in analysis
-├── Dheeraj Shetty-HICSS-2025.pdf
-└── Final Assignment Code Appendix.pdf
-
 ---
 
 ## Full Paper
